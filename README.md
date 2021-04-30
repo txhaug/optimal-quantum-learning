@@ -3,6 +3,7 @@
 Example code to optimally train a variational quantum algorithm for learning quantum states. Uses the quantum Fisher information metric to calculate optimal adaptive learning rate for gradient ascent. Further uses generalized quantum natural gradient for optimal movement in parameter space while preserving stability of gradient.
 
 Companion code for "Optimal training of variational quantum algorithm without barren plateaus" by T. Haug, M.S. Kim
+http://arxiv.org/abs/2104.14543
 
 Requirements: Numpy, Scipy, matplotlib, Qutip (http://qutip.org/, install via "pip qutip")
 
