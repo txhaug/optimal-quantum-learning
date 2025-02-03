@@ -7,6 +7,8 @@ Quantum natural gradient requires regularization (add small hyperparameter times
 Companion code for "Optimal training of variational quantum algorithm without barren plateaus" by T. Haug, M.S. Kim
 http://arxiv.org/abs/2104.14543
 
-Requirements: Numpy, Scipy, matplotlib, Qutip (http://qutip.org/, install via "pip qutip")
+Requirements: Numpy, Scipy, matplotlib, Qutip (http://qutip.org/) 
+
+NOTE: Requires older version of qutip, namely <=4.7.5, install via "pip install qutip==4.7.5"
 
 @author: Tobias Haug, Imperial College London
